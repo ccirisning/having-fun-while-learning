@@ -1,0 +1,7 @@
+{
+  "name": "Gojuon Master: Deep Learning Module",
+  "description": "A high-end Japanese Kana learning platform featuring AI-powered handwriting validation, pronunciation scoring, and confusable character comparison logic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
